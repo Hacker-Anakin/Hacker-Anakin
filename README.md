@@ -18,7 +18,7 @@ I'm **@Hacker-Anakin**. Welcome to my GitHub profile!
 ## Get in Touch
 
 - 📧 **Email:** cakely63@gmail.com
-- 📸 **Instagram:** <a href="https://www.instagram.com/itz.anakin"/>
+- 📸 **Instagram:** [itz.anakin](https://www.instagram.com/itz.anakin)
 
 Thank you for visiting my profile! Let's connect and create something awesome together! 🚀
 
