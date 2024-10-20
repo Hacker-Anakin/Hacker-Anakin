@@ -1,4 +1,6 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 # 💫 About Me
 **👀 Passionate about Web Development, Video Editing, UI/UX Design, and Python Coding**. I specialize in the **MERN stack** and have experience with **C++ Front-end Development**. Currently, expanding my skills in **PHP and SQL** to grow my programming expertise.
