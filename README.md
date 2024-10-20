@@ -1,5 +1,5 @@
 <p align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" />
 </p>
 
 # 💫 About Me
