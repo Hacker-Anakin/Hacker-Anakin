@@ -12,7 +12,7 @@
 Beyond coding, I'm fascinated by **cars**—whether it's the latest models or timeless classics. 🚗
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anmol4324)]
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anmol4324)
 
 # 📚 Currently Learning:
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
